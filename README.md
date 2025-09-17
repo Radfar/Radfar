@@ -43,7 +43,7 @@ _Sample data and analysis from an ABB robotic cell simulation._
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Rockwell](https://img.shields.io/badge/Rockwell-FF0000?style=flat&logo=siemens&logoColor=white)
 ![Siemens](https://img.shields.io/badge/Siemens-009999?style=flat&logo=siemens&logoColor=white)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlirezaRadfar&show_icons=true&theme=default)
 ![Visitors](https://komarev.com/ghpvc/?username=yourusername)
 
 ## Hi there 👋

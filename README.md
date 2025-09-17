@@ -40,6 +40,9 @@ _Sample data and analysis from an ABB robotic cell simulation._
 - 🖥️ GitHub:(https://github.com/Radfar)
 
 ---
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Rockwell](https://img.shields.io/badge/Rockwell-FF0000?style=flat&logo=siemens&logoColor=white)
+![Siemens](https://img.shields.io/badge/Siemens-009999?style=flat&logo=siemens&logoColor=white)
 
 ## Hi there 👋
 

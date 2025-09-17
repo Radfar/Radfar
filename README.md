@@ -1,40 +1,66 @@
 # 👋 Hi, I'm Alireza  
 
-🔹 **Automation & Electronics Engineer** based in GTA, Canada  
-🔹 Expertise in **Industrial Automation, PLCs, SCADA, Robotics, and IIoT**  
-🔹 Passionate about **bridging OT and IT** with modern tools like databases, OPC-UA, MQTT, and GitHub  
+Automation & Electronics Engineer | PLCs • SCADA • Robotics • IIoT • IT/OT Integration  
 
 ---
 
-## 🛠️ Skills & Tools
-- **Automation**: Rockwell (ControlLogix, CompactLogix), Siemens (TIA Portal, WinCC Unified), ABB Robots  
-- **SCADA & HMI**: FactoryTalk, Ignition, AVEVA, WinCC  
-- **Programming**: Python, C for microcontrollers, SQL, OPC-UA, MQTT  
-- **Electronics**: Firmware, PCB design, hardware troubleshooting  
-- **IT/OT Integration**: Data logging, industrial networking, dashboards, Git/GitHub for version control  
+## 🔹 About Me
+- Experienced in **automation machinery manufacturing** and **electronics design**  
+- Strong background in **PLC programming, robotics, and SCADA systems**  
+- Passionate about bridging **OT and IT** with databases, OPC-UA, MQTT, and cloud tools  
+- Currently based in **GTA, Canada**, exploring opportunities in smart manufacturing  
 
 ---
 
-## 📂 Featured Projects
-🔹 [PLC Data Logger with SQL](https://github.com/username/plc-data-logger-sql)  
-_A demo project showing how to log PLC/OPC-UA data into SQL for analysis._  
-
-🔹 [OPC-UA to MQTT Connector](https://github.com/username/opcua-mqtt-bridge)  
-_A lightweight script to bridge industrial data into IIoT platforms._  
-
-🔹 [Robotics Test Dataset](https://github.com/username/robotics-dataset)  
-_Sample data and analysis from an ABB robotic cell simulation._  
+## 🛠️ Skills
+**Automation & Control:** Rockwell (ControlLogix, CompactLogix), Siemens (TIA Portal, WinCC Unified), ABB Robots  
+**SCADA & HMI:** FactoryTalk, Ignition, AVEVA, WinCC  
+**Programming:** Python, C (firmware), SQL, OPC-UA, MQTT  
+**Electronics:** PCB design, embedded systems, sensor integration  
+**IT/OT Integration:** Industrial networking, data logging, dashboards, Git/GitHub for collaboration  
 
 ---
 
-## 🌍 About Me
-- 🌐 Experienced in **automation machinery manufacturing** in automotive and glass industries  
-- 🤝 Open to collaborating on **IIoT and Industry 4.0 projects**  
-- 🚀 Currently learning **Rockwell PLCs + IT/OT tools** to grow in the Canadian market  
+## 📂 Projects Portfolio
+
+### 🔧 Automation & IT/OT Integration
+- [**PLC Data Logger with SQL**](https://github.com/username/plc-data-logger-sql)  
+  *Log PLC/OPC-UA data into SQL for analysis & dashboards*  
+
+- [**OPC-UA to MQTT Connector**](https://github.com/username/opcua-mqtt-bridge)  
+  *Bridge industrial data to IIoT platforms via MQTT*  
+
+- [**HMI/SCADA Demo Project**](https://github.com/username/scada-demo)  
+  *WinCC Unified / FactoryTalk Optix demo with alarms, trends, and reports*  
 
 ---
 
-## 📫 Connect with Me
+### 🤖 Robotics
+- [**Robotics Test Dataset**](https://github.com/username/robotics-dataset)  
+  *Cycle time and error log dataset from ABB robot simulation*  
+
+---
+
+### 🔌 Electronics & Firmware
+- [**Embedded Sensor Logger**](https://github.com/username/embedded-sensor-logger)  
+  *ESP32/Arduino project for sensor data collection with Modbus*  
+
+---
+
+### 📚 Knowledge & Case Studies
+- [**Industry 4.0 Notes**](https://github.com/username/industry4.0-notes)  
+  *IT/OT integration concepts, diagrams, and best practices*  
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)  
+
+---
+
+## 🌍 Connect With Me
+
 - 📧 Email: alza.radfar@gmail.com  
 - 💼 LinkedIn: (https://www.linkedin.com/in/arradfar/) 
 - 🖥️ GitHub:(https://github.com/Radfar)

@@ -24,38 +24,38 @@ Automation & Electronics Engineer | PLCs • SCADA • Robotics • IIoT • IT/
 ## 📂 Projects Portfolio
 
 ### 🔧 Automation & IT/OT Integration
-- [**PLC Data Logger with SQL**](https://github.com/username/plc-data-logger-sql)  
+- [**PLC Data Logger with SQL**](https://github.com/Radfar/plc-data-logger-sql)  
   *Log PLC/OPC-UA data into SQL for analysis & dashboards*  
 
-- [**OPC-UA to MQTT Connector**](https://github.com/username/opcua-mqtt-bridge)  
+- [**OPC-UA to MQTT Connector**](https://github.com/Radfar/opcua-mqtt-bridge)  
   *Bridge industrial data to IIoT platforms via MQTT*  
 
-- [**HMI/SCADA Demo Project**](https://github.com/username/scada-demo)  
+- [**HMI/SCADA Demo Project**](https://github.com/Radfar/scada-demo)  
   *WinCC Unified / FactoryTalk Optix demo with alarms, trends, and reports*  
 
 ---
 
 ### 🤖 Robotics
-- [**Robotics Test Dataset**](https://github.com/username/robotics-dataset)  
+- [**Robotics Test Dataset**](https://github.com/Radfar/robotics-dataset)  
   *Cycle time and error log dataset from ABB robot simulation*  
 
 ---
 
 ### 🔌 Electronics & Firmware
-- [**Embedded Sensor Logger**](https://github.com/username/embedded-sensor-logger)  
+- [**Embedded Sensor Logger**](https://github.com/Radfar/embedded-sensor-logger)  
   *ESP32/Arduino project for sensor data collection with Modbus*  
 
 ---
 
 ### 📚 Knowledge & Case Studies
-- [**Industry 4.0 Notes**](https://github.com/username/industry4.0-notes)  
+- [**Industry 4.0 Notes**](https://github.com/Radfar/industry4.0-notes)  
   *IT/OT integration concepts, diagrams, and best practices*  
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?Radfar=yourRadfar&show_icons=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Radfar=yourRadfar&layout=compact)  
 
 ---
 
@@ -69,8 +69,8 @@ Automation & Electronics Engineer | PLCs • SCADA • Robotics • IIoT • IT/
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Rockwell](https://img.shields.io/badge/Rockwell-FF0000?style=flat&logo=siemens&logoColor=white)
 ![Siemens](https://img.shields.io/badge/Siemens-009999?style=flat&logo=siemens&logoColor=white)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlirezaRadfar&show_icons=true&theme=default)
-![Visitors](https://komarev.com/ghpvc/?username=yourusername)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?Radfar=AlirezaRadfar&show_icons=true&theme=default)
+![Visitors](https://komarev.com/ghpvc/?Radfar=yourRadfar)
 
 ## Hi there 👋
 

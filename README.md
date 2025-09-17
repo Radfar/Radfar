@@ -71,7 +71,7 @@ Automation & Electronics Engineer | PLCs • SCADA • Robotics • IIoT • IT/
 ![Rockwell](https://img.shields.io/badge/Rockwell-FF0000?style=flat&logo=siemens&logoColor=white)
 ![Siemens](https://img.shields.io/badge/Siemens-009999?style=flat&logo=siemens&logoColor=white)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Radfar&show_icons=true&theme=default)
-![Visitors](https://komarev.com/ghpvc/?Radfar=yourusername)
+![Visitors](https://komarev.com/ghpvc/?username=Radfar)
 
 ## Hi there 👋
 

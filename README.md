@@ -35,9 +35,9 @@ _Sample data and analysis from an ABB robotic cell simulation._
 ---
 
 ## 📫 Connect with Me
-- 📧 Email: your.email@example.com  
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- 🖥️ GitHub: [github.com/username](https://github.com/username)  
+- 📧 Email: alza.radfar@gmail.com  
+- 💼 LinkedIn: (https://www.linkedin.com/in/arradfar/) 
+- 🖥️ GitHub:(https://github.com/Radfar)
 
 ---
 

@@ -54,8 +54,9 @@ Automation & Electronics Engineer | PLCs • SCADA • Robotics • IIoT • IT/
 ---
 
 ## 📊 GitHub Stats
+## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Radfar&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Radfar&layout=compact)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)  
 
 ---
 

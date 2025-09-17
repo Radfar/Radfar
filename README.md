@@ -54,8 +54,8 @@ Automation & Electronics Engineer | PLCs • SCADA • Robotics • IIoT • IT/
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?Radfar=yourusername&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Radfar=yourusername&layout=compact)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Radfar&show_icons=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Radfar&layout=compact)  
 
 ---
 
@@ -69,7 +69,7 @@ Automation & Electronics Engineer | PLCs • SCADA • Robotics • IIoT • IT/
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Rockwell](https://img.shields.io/badge/Rockwell-FF0000?style=flat&logo=siemens&logoColor=white)
 ![Siemens](https://img.shields.io/badge/Siemens-009999?style=flat&logo=siemens&logoColor=white)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlirezaRadfar&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Radfar&show_icons=true&theme=default)
 ![Visitors](https://komarev.com/ghpvc/?Radfar=yourusername)
 
 ## Hi there 👋

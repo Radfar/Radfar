@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Alireza  
 
-Automation & Electronics Engineer | PLCs • SCADA • Robotics • IIoT • IT/OT Integration  
+Automation & Electronics Engineer | PLCs • SCADA • Robotics • IIoT • IT/OT  
 
 ---
 
 ## 🔹 About Me
-- Experienced in **automation machinery manufacturing** and **electronics design**  
-- Strong background in **PLC programming, robotics, and SCADA systems**  
+- Experienced in **Automation Machinery Manufacturing** and **Electronics Design**  
+- Strong background in **PLC programming, Robotics, and SCADA systems**  
 - Passionate about bridging **OT and IT** with databases, OPC-UA, MQTT, and cloud tools  
 - Currently based in **GTA, Canada**, exploring opportunities in smart manufacturing  
 

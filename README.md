@@ -20,7 +20,11 @@ Automation & Electronics Engineer | PLCs • SCADA • Robotics • IIoT • IT/
 **IT/OT Integration:** Industrial networking, data logging, dashboards, Git/GitHub for collaboration  
 
 ---
+## 📂 WinCC Variants
 
+- [**WinCC Variants**](https://github.com/Radfar/wincc-variants)  
+  *This table gives a quick high-level overview of all Siemens WinCC variants and where they fit in automation projects.*
+  
 ## 📂 Projects Portfolio
 
 ### 🔧 Automation & IT/OT Integration

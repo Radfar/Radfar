@@ -24,7 +24,11 @@ Automation & Electronics Engineer | PLCs • SCADA • Robotics • IIoT • IT/
 
 - [**WinCC Variants**](https://github.com/Radfar/wincc-variants)  
   *This table gives a quick high-level overview of all Siemens WinCC variants and where they fit in automation projects.*
-  
+## 📂 Siemens WinCC vs Rockwell FactoryTalk vs Ignition vs Wonderware
+
+- [**Compare Table**](https://github.com/Radfar/WinCC-Unified-FactoryTalk-Optix-and-Ignition/tree/main)  
+  *Siemens WinCC vs Rockwell FactoryTalk vs Ignition vs Wonderware
+ 
 ## 📂 Projects Portfolio
 
 ### 🔧 Automation & IT/OT Integration

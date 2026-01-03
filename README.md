@@ -4,10 +4,23 @@ Industrial Automation Engineer | PLC, SCADA & VFD | Industrial Networks & BACnet
 ---
 
 ## 🔹 About Me
-- Experienced in **Automation Machinery Manufacturing** and **Electronics Design**  
-- Strong background in **PLC programming, Robotics, and SCADA systems**  
-- Passionate about bridging **OT and IT** with databases, OPC-UA, MQTT, and cloud tools  
-- Currently based in **GTA, Canada**, exploring opportunities in smart manufacturing  
+I am an accomplished Industrial Automation and Electronics Engineer with extensive experience in both academia and industry, specializing in industrial control systems, PLC programming, SCADA/BAS platforms, VFDs, and industrial networks. I combine a research-driven mindset with hands-on experience to deliver innovative, reliable, and scalable automation solutions.
+Currently based in GTA, Canada, I am seeking opportunities to contribute my expertise in industrial and building automation, control systems, and IT/OT-integrated solutions to organizations looking to modernize and optimize operations.
+I have designed, commissioned, and maintained electrical and electronic systems for complex manufacturing lines and building automation applications. My work includes IT/OT integration using SCADA and BAS platforms, bridging operational technology with IT systems through OPC-UA, MQTT, cloud tools, and databases, and supporting both manufacturing and smart building operations with industrial networks such as BACnet, Profinet, and Ethernet/IP.
+In addition, I have a strong background in electronic hardware design, firmware development, PCB and prototype design using Altium, and hands-on experience with Raspberry Pi, Arduino, ESP32, and various microcontrollers, enabling me to develop innovative embedded solutions alongside automation systems.
+Throughout my career, I have collaborated with mechanical engineers, software developers, and project managers to deliver high-performance automation systems. I have also led and mentored teams of technicians, programmers, and engineers, ensuring projects are executed safely, efficiently, and to design standards.
+As a former university faculty member, I bring academic insight combined with industry expertise, allowing me to approach automation challenges analytically while delivering practical, real-world solutions. I am passionate about leveraging modern automation technologies, smart systems, and IT/OT convergence to improve operational efficiency, reliability, and digital integration.
+Key Skills & Expertise:
+	• SCADA Platforms: Ignition, WinCC
+	• BAS Platforms: Niagara N4
+	• PLC: Rockwell (ControlLogix), Siemens TIA Portal
+	• VFDs: commissioning & troubleshooting
+	• Industrial Networks: BACnet, Profinet, Ethernet/IP, Modbus TCP
+	• IT/OT Integration: OPC-UA, MQTT, Cloud Tools
+	• Firmware & Embedded Systems: Raspberry Pi, Arduino, ESP32, Microcontrollers
+	• PCB & Prototype Design: Altium Designer
+<img width="925" height="672" alt="image" src="https://github.com/user-attachments/assets/752d0580-f46c-47a6-9cb5-230e72ab9b52" />
+
 
 ---
 

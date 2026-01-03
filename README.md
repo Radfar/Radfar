@@ -19,7 +19,6 @@ Key Skills & Expertise:
 	• IT/OT Integration: OPC-UA, MQTT, Cloud Tools
 	• Firmware & Embedded Systems: Raspberry Pi, Arduino, ESP32, Microcontrollers
 	• PCB & Prototype Design: Altium Designer
-<img width="925" height="672" alt="image" src="https://github.com/user-attachments/assets/752d0580-f46c-47a6-9cb5-230e72ab9b52" />
 
 
 ---

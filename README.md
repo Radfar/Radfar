@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Alireza  
 
-Automation & Electronics Engineer | PLCs • SCADA • Robotics • IIoT • IT/OT  
-
+Industrial Automation Engineer | PLC, SCADA & VFD | Industrial Networks & BACnet | IT/OT | Manufacturing & Building Automation | MSc
 ---
 
 ## 🔹 About Me

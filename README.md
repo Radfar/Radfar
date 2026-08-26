@@ -1,10 +1,9 @@
 # 👋 Hi, I'm Alireza  
 
-Industrial Automation Engineer | PLC, SCADA & VFD | Industrial Networks | IT/OT | Manufacturing & Building Automation (BAS) | MSc
----
+Industrial Automation Engineer | PLC, SCADA & VFD | Web SCADA & IT/OT | Industrial Networks | BAS | MSc---
 
 ## 🔹 About Me
-An experienced automation engineer who knows how to use AI, software engineering practices, and automation tools to make engineering work more efficient and reliable. I am an Industrial and Building Automation and Electronics Engineer with extensive experience in both academia and industry, specializing in industrial control systems, PLC programming, SCADA/BAS platforms, VFDs, and industrial networks. I combine a research-driven mindset with hands-on experience to deliver innovative, reliable, and scalable automation solutions.
+An Automation Engineer who knows how to use AI, software engineering practices, and automation tools to make engineering work more efficient and reliable. I am an Industrial and Building Automation and Electronics Engineer with extensive experience in both academia and industry, specializing in industrial control systems, PLC programming, SCADA/BAS platforms, VFDs, and industrial networks. I combine a research-driven mindset with hands-on experience to deliver innovative, reliable, and scalable automation solutions.
 Currently based in GTA, Canada, I am seeking opportunities to contribute my expertise in industrial and building automation, control systems, and IT/OT-integrated solutions to organizations looking to modernize and optimize operations.
 I have designed, commissioned, and maintained electrical and electronic systems for complex manufacturing lines and building automation applications. My work includes IT/OT integration using SCADA and BAS platforms, bridging operational technology with IT systems through OPC-UA, MQTT, cloud tools, and databases, and supporting both manufacturing and smart building operations with industrial networks such as BACnet, Profinet, and Ethernet/IP.
 In addition, I have a strong background in electronic hardware design, firmware development, PCB and prototype design using Altium, and hands-on experience with Raspberry Pi, Arduino, ESP32, and various microcontrollers, enabling me to develop innovative embedded solutions alongside automation systems.

@@ -24,18 +24,18 @@ Core Expertise:
 ---
 
 ## 🛠️ Skills
-**Automation & Control:** Rockwell (ControlLogix, CompactLogix), Siemens (TIA Portal, WinCC Unified), ABB Robots  
-**SCADA & HMI:** FactoryTalk, Ignition, AVEVA, WinCC  
-**Programming:** Python, C (firmware), SQL, OPC-UA, MQTT  
+**Automation & Control:** Rockwell, Siemens, Codesys
+**SCADA & HMI:** Ignition, WinCC  
+**Programming:** Python, C (firmware), SQL
 **Electronics:** PCB design, embedded systems, sensor integration  
-**IT/OT Integration:** Industrial networking, data logging, dashboards, Git/GitHub for collaboration  
+**IT/OT Integration:** IIoT
 
 ---
 ## 📂 WinCC Variants
 
 - [**WinCC Variants**](https://github.com/Radfar/wincc-variants)  
   *This table gives a quick high-level overview of all Siemens WinCC variants and where they fit in automation projects.*
-## 📂 Siemens WinCC vs Rockwell FactoryTalk vs Ignition vs Wonderware
+## 📂 Siemens WinCC vs Rockwell FactoryTalk vs Ignition vs AVEVA
 
 - [**Compare Table**](https://github.com/Radfar/WinCC-Unified-FactoryTalk-Optix-and-Ignition/tree/main)  
   *Siemens WinCC vs Rockwell FactoryTalk vs Ignition vs Wonderware
@@ -43,7 +43,7 @@ Core Expertise:
 ## 📂 Projects Portfolio
 
 ### 🔧 Automation & IT/OT Integration
-- [**PLC Data Logger with SQL**](https://github.com/Radfar/plc-data-logger-sql)  
+- [**Building Irrigation SCADA**](https://github.com/Radfar/building-irrigation-scada)  
   *Log PLC/OPC-UA data into SQL for analysis & dashboards*  
 
 - [**OPC-UA to MQTT Connector**](https://github.com/Radfar/opcua-mqtt-bridge)  

@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alireza  
 
-Industrial Automation Engineer | PLC, SCADA & VFD | Web SCADA & IT/OT | Industrial Networks | BAS | MSc---
+Industrial Automation Engineer | PLC, SCADA | BAS | IT/OT | Industrial Networks | IIoT | VFD | MSc.
 
 ## 🔹 About Me
 I am an Industrial Automation and Electronics Engineer with extensive hands-on experience in PLC-based control systems, SCADA/HMI, VFDs, industrial networks, instrumentation, machine automation, and electronic systems.

@@ -58,7 +58,7 @@ Core Expertise:
 
 
 ### 🔌 Electronics & Firmware
-- [**Embedded Sensor Logger**](https://github.com/Radfar/embedded-sensor-logger)  
+- [**Wireless Watering**](https://github.com/Radfar/Wireless-Watering-System)  
   *ESP32/Arduino project for sensor data collection with Modbus*  
 
 ---

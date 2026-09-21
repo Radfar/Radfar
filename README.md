@@ -46,7 +46,7 @@ Core Expertise:
 - [**Building Irrigation SCADA**](https://github.com/Radfar/building-irrigation-scada)  
   *Log PLC/OPC-UA data into SQL for analysis & dashboards*  
 
-- [**OPC-UA to MQTT Connector**](https://github.com/Radfar/water-process-integration-testbed)  
+- [**Water Process Integration Testbed**](https://github.com/Radfar/water-process-integration-testbed)  
   *Bridge industrial data to IIoT platforms via MQTT*  
 
 - [**HMI/SCADA Demo Project**](https://github.com/Radfar/scada-demo)  

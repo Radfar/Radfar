@@ -56,11 +56,6 @@ Core Expertise:
 
 ---
 
-### 🤖 Robotics
-- [**Robotics Test Dataset**](https://github.com/Radfar/robotics-dataset)  
-  *Cycle time and error log dataset from ABB robot simulation*  
-
----
 
 ### 🔌 Electronics & Firmware
 - [**Embedded Sensor Logger**](https://github.com/Radfar/embedded-sensor-logger)  

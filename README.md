@@ -44,10 +44,10 @@ Core Expertise:
   
 ---
 
-## 📂 Siemens WinCC vs Rockwell FactoryTalk vs Ignition vs AVEVA
+## 📂 Enterprise SCADA & Industrial DevOps Reference Architecture
 
-- [**Enterprise SCADA & Industrial DevOps Reference Architecture**](https://github.com/Radfar/scada-ecosystems-reference)  
-  *Siemens WinCC vs Rockwell FactoryTalk vs Ignition vs Wonderware
+- [**SCADA Ecosystems Reference**](https://github.com/Radfar/scada-ecosystems-reference)  
+  *Siemens WinCC vs Rockwell FactoryTalk vs Ignition vs Wonderware AVEVA
  
  
 

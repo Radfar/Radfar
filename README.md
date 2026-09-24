@@ -43,10 +43,7 @@ Core Expertise:
   *WinCC Unified / FactoryTalk Optix demo with alarms, trends, and reports*
   
 ---
-## 📂 WinCC Variants
 
-- [**WinCC Variants**](https://github.com/Radfar/wincc-variants)  
-  *This table gives a quick high-level overview of all Siemens WinCC variants and where they fit in automation projects.*
 ## 📂 Siemens WinCC vs Rockwell FactoryTalk vs Ignition vs AVEVA
 
 - [**Enterprise SCADA & Industrial DevOps Reference Architecture**](https://github.com/Radfar/scada-ecosystems-reference)  

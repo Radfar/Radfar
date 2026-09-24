@@ -49,7 +49,7 @@ Core Expertise:
   *This table gives a quick high-level overview of all Siemens WinCC variants and where they fit in automation projects.*
 ## 📂 Siemens WinCC vs Rockwell FactoryTalk vs Ignition vs AVEVA
 
-- [**Compare Table**](https://github.com/Radfar/WinCC-Unified-FactoryTalk-Optix-and-Ignition/tree/main)  
+- [**Enterprise SCADA & Industrial DevOps Reference Architecture**](https://github.com/Radfar/scada-ecosystems-reference)  
   *Siemens WinCC vs Rockwell FactoryTalk vs Ignition vs Wonderware
  
  

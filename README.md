@@ -1,104 +1,62 @@
-# 👋 Hi, I'm Alireza  
+# Alireza Radfar
+### Industrial Automation Engineer | PLC, SCADA/HMI, Industrial Networks & IT/OT Integration
 
-Industrial Automation Engineer | PLC, SCADA | BAS | IT/OT | Industrial Networks | IIoT | VFD | MSc.
+I am an Industrial Automation and Electronics Engineer with hands-on experience in industrial control systems, PLC-based machine automation, SCADA/HMI, VFDs, instrumentation, electronics, and commissioning.
 
-## 🔹 About Me
-I am an Industrial Automation and Electronics Engineer with extensive hands-on experience in PLC-based control systems, SCADA/HMI, VFDs, industrial networks, instrumentation, machine automation, and electronic systems.
-I am currently expanding my traditional automation expertise into modern Web SCADA, IT/OT integration, Building Automation, and AI-assisted engineering. As part of this development, I am building and testing a web-based SCADA platform using Node.js/Express, REST APIs, PostgreSQL, OPC UA, MQTT, and Web HMI technologies. This work is helping me bridge OT systems with modern software architecture while maintaining a practical automation-engineering perspective.
-My automation experience includes PLC programming, SCADA, HMI, BAS/HVAC concepts, VFD commissioning and troubleshooting, and industrial communication protocols including PROFINET, EtherNet/IP, Modbus TCP, OPC UA, MQTT, and BACnet.
-I also bring a strong electronics and embedded-systems background, including hardware design, PCB and prototype development with Altium Designer, firmware development, and hands-on work with Raspberry Pi, Arduino, ESP32, and other microcontrollers.
-More recently, I have been exploring AI, LLMs, AI-assisted development, Python, APIs, and data-driven methods to improve engineering workflows such as documentation, troubleshooting, data analysis, and system integration. I see AI as an engineering tool that can improve productivity and decision-making—not as a replacement for engineering judgment.
-Throughout my career, I have worked with multidisciplinary teams of engineers, technicians, software developers, and project managers, and have led and mentored technical teams. I combine analytical problem-solving with practical implementation, commissioning, troubleshooting, and continuous learning.
-Core Expertise:
-• Industrial Automation: PLCs, control systems, machine automation, commissioning & troubleshooting
-• PLC: Siemens TIA Portal, Rockwell, CODESYS
-• SCADA/HMI: WinCC, Ignition, Web-based SCADA
-• BAS: Niagara N4, HVAC automation, BACnet
-• Drives: VFD commissioning, configuration & troubleshooting
-• Industrial Networks: PROFINET, EtherNet/IP, Modbus TCP
-• IT/OT: OPC UA, MQTT, Node.js, REST APIs, PostgreSQL
-• Embedded: Raspberry Pi, Arduino, ESP32, microcontrollers
-• Electronics: Firmware, PCB design, prototyping, Altium Designer
-• Emerging Technologies: AI-assisted engineering, LLMs, Python, data analysis
+My current focus is connecting industrial control systems with modern software and data platforms. I am developing an **Industrial Water Management & Automation Testbed** that brings together PLC simulation, Web SCADA, OPC UA, MQTT, PostgreSQL, embedded systems, and building-automation integration.
 
----
+My approach combines practical automation engineering with software-based integration, systematic testing, and continuous learning.
 
-## 🛠️ Skills
-**Automation & Control:** Rockwell, Siemens, Codesys
-**SCADA & HMI:** Ignition, WinCC  
-**Programming:** Python, C (firmware), SQL
-**Electronics:** PCB design, embedded systems, sensor integration  
-**IT/OT Integration:** IIoT
+## Featured Projects
 
-## 📂 Projects Portfolio
+### 1. Building Irrigation SCADA
+**Web HMI · Node.js · Express · PostgreSQL · OPC UA · CODESYS**
 
-### 🔧 Automation & IT/OT Integration
-- [**Building Irrigation SCADA**](https://github.com/Radfar/building-irrigation-scada)  
-  *Log PLC/OPC-UA data into SQL for analysis & dashboards*  
+A browser-based SCADA/HMI for a building irrigation process. The current implementation connects a CODESYS SoftPLC to a Node.js backend, displays live Zone 03 process data, and supports operator commands with server-side interlocks.
 
-- [**Water Process Integration Testbed**](https://github.com/Radfar/water-process-integration-testbed)  
-  *Bridge industrial data to IIoT platforms via MQTT*  
+[View repository](https://github.com/Radfar/building-irrigation-scada)
 
-- [**HMI/SCADA Demo Project**](https://github.com/Radfar/scada-demo)  
-  *WinCC Unified / FactoryTalk Optix demo with alarms, trends, and reports*
-  
----
+### 2. Wireless Irrigation Edge
+**Arduino · ESP8266 · Embedded C++ · RF · MQTT · Node-RED**
 
-## 📂 Enterprise SCADA & Industrial DevOps Reference Architecture
+An embedded and edge-integration project combining local wireless valve control with a soil-moisture telemetry path. MQTT data passes through Node-RED and PostgreSQL to the Web SCADA application. The local watering-control path is designed to operate independently of Internet connectivity.
 
-- [**SCADA Ecosystems Reference**](https://github.com/Radfar/scada-ecosystems-reference)  
-  *Siemens WinCC vs Rockwell FactoryTalk vs Ignition vs Wonderware AVEVA
- 
- 
+[View repository](https://github.com/Radfar/wireless-irrigation-edge)
 
----
+### 3. OPC UA–BACnet Gateway
+**Node.js · OPC UA · BACnet/IP · PostgreSQL**
 
+A software gateway prototype that maps selected PLC process variables to BACnet/IP objects, supporting monitoring, selected command handling, change-of-value notifications, and historical data logging.
 
-### 🔌 Electronics & Firmware
-- [**Wireless Watering**](https://github.com/Radfar/Wireless-Watering-System)  
-  *ESP32/Arduino project for sensor data collection with Modbus*  
+[View repository](https://github.com/Radfar/opcua-bacnet-gateway)
 
----
+### 4. Water Process Integration Testbed
+**Industrial architecture · PLC simulation · SCADA · IT/OT integration**
 
-### 📚 Knowledge & Case Studies
-- [**Industry 4.0 Notes**](https://github.com/Radfar/industry4.0-notes)  
-  *IT/OT integration concepts, diagrams, and best practices*  
+The broader test environment for exploring how control systems, operator interfaces, industrial protocols, databases, and edge devices can work together.
 
----
+[View repository](https://github.com/Radfar/water-process-integration-testbed)
 
-## 📊 GitHub Stats
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Radfar&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)  
+## Technical Focus
 
----
+- **Industrial automation:** PLC programming, control logic, commissioning, troubleshooting
+- **PLC platforms:** Siemens TIA Portal, Rockwell Automation, CODESYS
+- **SCADA/HMI:** WinCC, Ignition, custom browser-based HMI
+- **Industrial communication:** PROFINET, EtherNet/IP, Modbus TCP, OPC UA, MQTT
+- **Building automation:** BAS/HVAC concepts, BACnet/IP integration
+- **Software and data:** JavaScript, Node.js, Express, REST APIs, PostgreSQL, SQL
+- **Embedded systems:** Arduino, ESP8266, ESP32, sensors, firmware, electronics prototyping
+- **Engineering tools:** Altium Designer, Python, AI-assisted engineering workflows
 
-## 🌍 Connect With Me
+## Current Development
 
-- 📧 Email: alza.radfar@gmail.com  
-- 💼 LinkedIn: (https://www.linkedin.com/in/arradfar/) 
-- 🖥️ GitHub:(https://github.com/Radfar)
+- Expanding the water-management testbed and its PLC integrations
+- Improving industrial telemetry, data quality, and SCADA status handling
+- Developing OPC UA–BACnet integration for building-automation use cases
+- Documenting architecture, testing, limitations, and commissioning requirements
 
----
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Rockwell](https://img.shields.io/badge/Rockwell-FF0000?style=flat&logo=siemens&logoColor=white)
-![Siemens](https://img.shields.io/badge/Siemens-009999?style=flat&logo=siemens&logoColor=white)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Radfar&show_icons=true&theme=default)
-![Visitors](https://komarev.com/ghpvc/?username=Radfar)
+## Connect
 
-## Hi there 👋
-
-<!--
-**Radfar/Radfar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **LinkedIn:** [linkedin.com/in/arradfar](https://www.linkedin.com/in/arradfar/)
+- **GitHub:** [github.com/Radfar](https://github.com/Radfar)
+- **Email:** alza.radfar@gmail.com
